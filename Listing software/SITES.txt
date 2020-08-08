@@ -1,0 +1,25 @@
+http://www.cis.temple.edu
+http://www.nptel.iitm.ac.in
+www.educationobserver.com
+http://www.educationobserver.com
+http://cquestionbank.blogspot.com
+http://www.nptel.iitm.ac.in
+http://www.jroller.com------------ selenium introduction
+
+http://wiki.openqa.org/download/attachments/400/Selenium+IDE.swf?version=1 ------------ flash file about selenium
+
+http://agilesoftwaredevelopment.com/videos/functional-testing-selenium-ide------------- vedio tutorial
+
+http://www.theautomatedtester.co.uk/selenium_training.htm--------- selenium
+
+http://en.wikipedia.org/wiki/Selenium_(software)----------- selenium wiki
+
+http://qtpselenium.com/samplevideos/selenium/seleniumvideos.php---------- vedios and training 
+
+www.seleniumhq.org/download--------------- diffenret versions of selenium
+
+www.openqa.org -------------------- to download selenium IDE
+
+www.testinggeek.com------------------ articles on selenium
+
+http://www.pushtotest.com/selenium-tutorial-full
